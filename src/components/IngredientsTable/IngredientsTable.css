@@ -1,0 +1,13 @@
+.ingredient-list {
+  padding-left: 0px;
+}
+
+.ingredient-list li {
+  list-style-type: none;
+  margin-left: 20px;
+  font-size: 13px;
+}
+
+.ingredients-title {
+  text-transform: capitalize;
+}
